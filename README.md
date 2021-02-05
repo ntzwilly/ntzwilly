@@ -1,4 +1,4 @@
-### Hi there, I'm Willy - aka @ntzwilly 👋
+### Hi there, I'm Willy - aka [ntzwilly] 👋
 
 
 ### About Me
