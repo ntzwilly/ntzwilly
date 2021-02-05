@@ -51,10 +51,10 @@
 
  ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/ntzwilly/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntzwilly&layout=compact)](https://github.com/ntzwilly/github-readme-stats)
  
 
-[ntzwilly]: #
+[ntzwilly]: https://codeSTACKr.com
 [linkedin]: https://www.linkedin.com/in/ntazama-willy-b676b7aa/
 [twitter]: https://twitter.com/WNtazama
 [instagram]: https://www.instagram.com/ntzwilly/
