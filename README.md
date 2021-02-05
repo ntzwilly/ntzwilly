@@ -45,6 +45,10 @@
 
  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ntzwilly&show_icons=true&hide_border=true" />
 
+ ---
+
+ ![Willy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntzwilly&show_icons=true&theme=radical)
+
 [ntzwilly]: https://codeSTACKr.com
 [linkedin]: https://www.linkedin.com/in/ntazama-willy-b676b7aa/
 [twitter]: https://twitter.com/WNtazama
