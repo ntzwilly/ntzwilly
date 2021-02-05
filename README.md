@@ -42,14 +42,19 @@
 <br />
 
 ---
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ntzwilly&show_icons=true&hide_border=true" />
+![Willy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntzwilly&show_icons=true&theme=radical)
+  
+</details>
 
  ---
 
- ![Willy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntzwilly&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/ntzwilly/github-readme-stats)
+ 
 
-[ntzwilly]: https://codeSTACKr.com
+[ntzwilly]: #
 [linkedin]: https://www.linkedin.com/in/ntazama-willy-b676b7aa/
 [twitter]: https://twitter.com/WNtazama
 [instagram]: https://www.instagram.com/ntzwilly/
