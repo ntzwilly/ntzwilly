@@ -42,3 +42,7 @@
 <br />
 
 ---
+
+[linkedin]: https://www.linkedin.com/in/ntazama-willy-b676b7aa/
+[twitter]: https://twitter.com/WNtazama
+[instagram]: https://www.instagram.com/ntzwilly/
