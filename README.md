@@ -52,6 +52,8 @@
  ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntzwilly&layout=compact)](https://github.com/ntzwilly/github-readme-stats)
+
+[![Willy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ntzwilly)](https://github.com/ntzwilly/github-readme-stats)
  
 
 [ntzwilly]: https://codeSTACKr.com
