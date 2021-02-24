@@ -52,7 +52,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntzwilly&layout=compact)](https://github.com/ntzwilly/github-readme-stats)
  
 
-[ntzwilly]: https://codeSTACKr.com
+[ntzwilly]: https://www.linkedin.com/in/ntazama-willy-b676b7aa/
 [linkedin]: https://www.linkedin.com/in/ntazama-willy-b676b7aa/
 [twitter]: https://twitter.com/WNtazama
 [instagram]: https://www.instagram.com/ntzwilly/
