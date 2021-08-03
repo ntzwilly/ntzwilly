@@ -1,13 +1,10 @@
-### Hi there, I'm Willy - aka [ntzwilly] 👋
+### Hi there, I'm [ntzwilly] 👋
 
 
 ### About Me
 
 - 🔭 I am working to become a Full Stack Developer
-- 🌱 I’m currently learning software development.
-- 💬 Ask me about cars 
 - 📫 How to reach me: ntazamawilly@yahoo.fr
-- 😄 Name two Pronouns: Who? Me?
 - ⚡ Fun fact: :neckbeard: After reading this post you will realize that the the brain doesn't recognize a second 'the'.:grimacing:
 
 ### Connect with me:
