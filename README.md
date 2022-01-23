@@ -3,7 +3,6 @@
 
 ### About Me
 
-- 🔭 I am working to become a Full-Stack Developer
 - 📫 How to reach me: ntazamawilly@yahoo.fr
 - ⚡ Fun fact: :neckbeard: After reading this post you will realize that the the brain doesn't recognize a second 'the'.:grimacing:
 
