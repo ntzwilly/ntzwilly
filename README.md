@@ -1,6 +1,6 @@
 ### Hi there, I'm [ntzwilly] 👋
 
-
+![Willy Ntazama (1)](https://user-images.githubusercontent.com/9049260/153769278-6aeadc17-ceb7-4bad-a391-7fef1a66fa43.png)
 ### About Me
 
 - 📫 How to reach me: ntazamawilly@yahoo.fr
